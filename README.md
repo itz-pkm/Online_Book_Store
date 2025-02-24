@@ -22,9 +22,9 @@ informed decisions for improving services and increasing sales.
 1. Download the File:
    -  Clone the repository using:
    ```sh
-   git clone https://github.com/itz-pkm/Hospital-Emergency-Room-Dashboard.git
+   git clone https://github.com/itz-pkm/Online_Book_Store.git
    ```
-   -  Or download the .xlsm file directly from the repository.
+   -  Or download the .sql file directly from the repository.
 2. Install PostgreSQL (if not installed):
    -  Ensure psql (PostgreSQL CLI) is accessible in your terminal.
 3. Create a New Database:
